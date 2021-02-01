@@ -18,3 +18,4 @@ Main Menu -
 4) Back
 
 Image:
+![alt text](https://github.com/Two-Apes/password-generator/blob/main/main.png?raw=true)
