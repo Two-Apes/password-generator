@@ -7,9 +7,7 @@ Main Menu -
 2. Generate a new password | Difficulty
 3. Exit
 
-[1] Custom
--> Length ( 0 - infinity )
--> Symbols ( yes || no )
+[1] Custom | Length ( 0 - infinity ) && Symbols ( yes || no )
 
 [2] Difficulty
 1) Easy Password    | length - 6  && numbers + lowercase letters
