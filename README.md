@@ -1,6 +1,6 @@
 # password-generator
 
-A simple password generator.
+A simple cpp password generator.
 
 Main Menu -
 1. Generate a new password | Custom
