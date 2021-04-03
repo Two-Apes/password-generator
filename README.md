@@ -25,7 +25,7 @@ Image:
 3. Go to cpp-RandomPasswordGenerator/Debug/
 4. Run cpp-RandomPasswordGenerator.exe
 
-[How To Edit]
+[How To Edit || Compile]
 1. Download the file (code -> download ZIP)
 2. Extract it
 3. Go to cpp-RandomPasswordGenerator/
